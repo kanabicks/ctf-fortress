@@ -33,7 +33,7 @@
 ## 🛠️ Установка
 
 1. **Клонируйте репозиторий:**
-git clone https://github.com/ВАШ_ЮЗЕРНЕЙМ/ctf-fortress.git
+git clone https://github.com/kanabicks/ctf-fortress.git
 cd ctf-fortress
 
 
